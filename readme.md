@@ -10,5 +10,5 @@ A simple shell script which allows to build all the scripts in one click.
 - Drag and drop `build.sh` into the same folder where your `resources` folder is located.
 
 ### Requirements
-- [pnpm-i](https://pnpm.io/installation)
-- [Git bash](https://www.atlassian.com/git/tutorials/git-bash)
+- [pnpm](https://pnpm.io/installation)
+- [Git bash](https://www.atlassian.com/git/tutorials/git-bash) - WINDOWS USERS ONLY
