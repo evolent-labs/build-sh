@@ -3,7 +3,7 @@
 A simple shell script which allows to build all the scripts in one click.
 
 ## ✨ Features
-- Runs throguh all folders containing package.json
+- Runs through all folders containing package.json
 - Executes `pnpm i` if required and `pnpm run build`.
 
 ## Installation
